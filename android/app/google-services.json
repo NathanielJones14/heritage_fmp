@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "703004426969",
+    "firebase_url": "https://heritage-45d89.firebaseio.com",
+    "project_id": "heritage-45d89",
+    "storage_bucket": "heritage-45d89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703004426969:android:4c706037e7f6b66b1df4c8",
+        "android_client_info": {
+          "package_name": "com.nathanieljones.heritage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703004426969-l28nh6qcaaj6oshr3692nm1rhvbha572.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nathanieljones.heritage",
+            "certificate_hash": "c8cf3990b47e1be4627afdd4fa5d6adcef444c64"
+          }
+        },
+        {
+          "client_id": "703004426969-bm1ie2r3u6j7kd9fgkmv728dltsnta4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA68o1OBtwnOcANLHe7VHVniclLShQ7Zes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703004426969-bm1ie2r3u6j7kd9fgkmv728dltsnta4i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "703004426969-dd2a98dubl0kuk6jjccsofq0elulfnvb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nathanieljones.heritage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
